@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LightHome</string>
+    <string name="remote_key_desc">Lets you remap specific remote-control buttons to open apps you choose, as configured in config.properties. Disabled (does nothing) until at least one button is mapped.</string>
+</resources>

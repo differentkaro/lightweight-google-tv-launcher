@@ -1,0 +1,10 @@
+config.properties
+build/
+signing/
+*.keystore
+*.jks
+*.hprof
+local.properties
+.DS_Store
+screenshots-private/
+tv-backup/
